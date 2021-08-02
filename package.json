@@ -1,0 +1,15 @@
+{
+  "name": "dota2cp_discord_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "guilospanck <guilherme.rp2010@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/bot.js",
+    "dev": "nodemon ./src/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
