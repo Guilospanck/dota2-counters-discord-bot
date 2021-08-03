@@ -15,8 +15,14 @@ When creating, you'll see that there is a *Bot Token*. Save it into the <code>.e
 
 Then run:
 ```bash
+yarn 
+```
+To install all packages described in the <code>package.json</code> file, and
+```bash
 yarn start
 ```
+To actually run the BOT.
+
 By doing this, your BOT will be up and running. Now you have to add it to your server to test commands.
 Go to the [TopGG](https://top.gg/bot/new) website (which groups every Discord BOT) and then add your BOT there.
 After that, just invite it to your server and send commands to it.
