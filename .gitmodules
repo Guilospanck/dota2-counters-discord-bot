@@ -1,0 +1,4 @@
+[submodule "dota2-counters"]
+	path = dota2-counters
+	url = https://github.com/Guilospanck/dota2-counters.git
+	branch = main

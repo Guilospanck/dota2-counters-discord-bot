@@ -16,7 +16,7 @@ const transformSingleQuotesToDoubleQuotes = (text) => {
 };
 
 const getCounters = () => {
-  const data = fs.readFileSync(path.resolve(__dirname, '../countersByHero.txt'), 'utf8');
+  const data = fs.readFileSync(path.resolve(__dirname, '../dota2-counters/countersByHero'), 'utf8');
   return JSON.parse(transformSingleQuotesToDoubleQuotes(data));
 }
 
