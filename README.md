@@ -26,3 +26,4 @@ To actually run the BOT.
 By doing this, your BOT will be up and running. Now you have to add it to your server to test commands.
 Go to the [TopGG](https://top.gg/bot/new) website (which groups every Discord BOT) and then add your BOT there.
 After that, just invite it to your server and send commands to it.
+
